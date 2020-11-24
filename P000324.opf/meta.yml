@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W19471
   title: ཉམས་མགུར
-  volume: ''
+  volume:
+    be155170bd534f6e944bdd77a28424d9:
+      image_group_id: I2827
+      title: ''
+      volume_number: 1
+      total_pages: 364
   author: ''
+ebook_metadata:
+  title: ཉམས་མགུར
+  author: ''
+  sku: P000324
+  cover: cover.jpg
+  layers:
+  - pagination
